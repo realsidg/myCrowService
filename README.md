@@ -19,3 +19,9 @@ On the welcome page you can test the generated services via API Gateway and chec
 - `npm test`: Run tests & generate coverage report
 - `npm run dc:up`: Start the stack with Docker Compose
 - `npm run dc:down`: Stop the stack with Docker Compose
+
+## Screenshots
+Moleculer output
+![Output](static/moleculer_output.png)
+Trigger action
+![Trigger Action](static/postman.png)
