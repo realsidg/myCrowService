@@ -1,10 +1,8 @@
-# microcule
-This is a [Moleculer](https://moleculer.services/)-based microservices project. Generated with the [Moleculer CLI](https://moleculer.services/docs/0.14/moleculer-cli.html).
+# myCrowService
+This is a [Moleculer](https://moleculer.services/)-based microservices project. Generated with the [Moleculer CLI](https://moleculer.services/docs/0.14/moleculer-cli.html). Webhooks Microservice using  Moleculer 
 
 ## Usage
-Start the project with `npm run dev` command. 
-After starting, open the http://localhost:3000/ URL in your browser. 
-On the welcome page you can test the generated services via API Gateway and check the nodes & services.
+Start the project with `npm run dev` command.
 
 ## Available Endpoints
 - POST /api/webhooks/register => webhooks.insert
