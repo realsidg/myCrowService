@@ -7,11 +7,11 @@ After starting, open the http://localhost:3000/ URL in your browser.
 On the welcome page you can test the generated services via API Gateway and check the nodes & services.
 
 ## Available Endpoints
-POST /api/webhooks/register => webhooks.insert
-PATCH /api/webhooks/update => webhooks.update
-GET /api/webhooks/list => webhooks.list
-POST /api/webhooks/trigger => webhooks.trigger
-DELETE /api/webhooks/delete => webhooks.remove
+- POST /api/webhooks/register => webhooks.insert
+- PATCH /api/webhooks/update => webhooks.update
+- GET /api/webhooks/list => webhooks.list
+- POST /api/webhooks/trigger => webhooks.trigger
+- DELETE /api/webhooks/delete => webhooks.remove
 
 ## Services
 - **api**: API Gateway services
